@@ -3,13 +3,13 @@
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Page 1](images/Customer & Product Intelligence Dashboard.png)
+![Page 1](Images/Customer & Product Intelligence Dashboard.png)
 
 ### Delivery Performance Analysis
-![Page 2](images/Executive Overview Dashboard।.png)
+![Page 2](Images/Executive Overview Dashboard।.png)
 
 ### Cost & Efficiency Analysis
-![Page 3](images/Logistics Operations Dashboard.png)
+![Page 3](Images/Logistics Operations Dashboard.png)
 
 ## Project Overview
 
